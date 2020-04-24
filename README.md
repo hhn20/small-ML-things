@@ -1,2 +1,2 @@
 # small-ML-things
-ML projects from courses
+small ML projects from various online courses
